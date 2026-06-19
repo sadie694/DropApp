@@ -1,2 +1,2 @@
 # DropApp
-The app link: https://drop-finder-hub.base44.app
+The app allows you to get apps for your device 
